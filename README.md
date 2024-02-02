@@ -1,4 +1,4 @@
-# Springboot Game Web page Project
+# Playhost Springboot Game Web page Project
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeJonJ%2FSpring-WebSocket-Chatting&count_bg=%233310C8&title_bg=%2316C86B&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## 0. Spring Boot 와 React 을 활용한 게임 웹사이트 프로젝트
