@@ -100,13 +100,3 @@
 ### DataChannel file Up/Download
 ![chatforyou_fileupdown.gif](info%2Fchatforyou_fileupdown.gif)
 
-## Reference
-https://github.com/Benkoff/WebRTC-SS
-
-https://github.com/codejs-kr/webrtc-lab
-
-https://doc-kurento.readthedocs.io/en/latest/index.html
-
-## License
-* Copyright 2023 SejonJang (wkdtpwhs@gmail.com)  
-GNU General Public License v3.0 
