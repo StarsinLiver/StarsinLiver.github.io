@@ -30,8 +30,10 @@
 - AWS EC2
 - GABIA (도메인)
 
-## 2. ERD 
 ![1706859882414-4c2a9d00-e4c7-47df-ab00-e5ebc180871a_11](https://github.com/StarsinLiver/StarsinLiver.github.io/assets/141594965/0cfc01bb-44c2-4936-a440-73715183f4f0)
+
+## 2. ERD 
+
 
 ## 3. 구현 기능
 1) 로그인/회원가입
