@@ -6,7 +6,7 @@
 
 ## 프로젝트 선정 배경
 ![1706859882414-4c2a9d00-e4c7-47df-ab00-e5ebc180871a_4](https://github.com/StarsinLiver/StarsinLiver.github.io/assets/141594965/68c641df-4d3c-4df5-be3b-4c5f4af59d74)
-![1706859882414-4c2a9d00-e4c7-47df-ab00-e5ebc180871a_5](https://github.com/StarsinLiver/StarsinLiver.github.io/assets/141594965/94bb3268-9a62-4242-b1c9-24d7c36cefd9)
+![1706859882414-4c2a9d00-e4c7-47df-ab00-e5ebc180871a_5]()(https://github.com/StarsinLiver/StarsinLiver.github.io/assets/141594965/94bb3268-9a62-4242-b1c9-24d7c36cefd9)"  width="700" height="370">
 
 
 ### 브랜치별 설명
