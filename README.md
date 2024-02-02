@@ -5,8 +5,7 @@
 - SpringBoot 기반 웹 사이트 개발 프로젝트를 진행
 
 ## 프로젝트 선정 배경
-![1706859882414-4c2a9d00-e4c7-47df-ab00-e5ebc180871a_4](https://github.com/StarsinLiver/StarsinLiver.github.io/assets/141594965/68c641df-4d3c-4df5-be3b-4c5f4af59d74)
-{: width="100" height="100"}
+<img src="https://github.com/StarsinLiver/StarsinLiver.github.io/assets/141594965/68c641df-4d3c-4df5-be3b-4c5f4af59d74" width="50" height="50"/>
 
 
 ### 브랜치별 설명
