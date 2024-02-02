@@ -4,7 +4,7 @@
 ## 0. Spring Boot 와 React 을 활용한 게임 웹사이트 프로젝트
 - SpringBoot 기반 웹 사이트 개발 프로젝트를 진행
 
-## 프로젝트 선정 배경
+### 프로젝트 선정 배경
 <img src="https://github.com/StarsinLiver/StarsinLiver.github.io/assets/141594965/68c641df-4d3c-4df5-be3b-4c5f4af59d74" width="450"/>
 <img src="https://github.com/StarsinLiver/StarsinLiver.github.io/assets/141594965/94bb3268-9a62-4242-b1c9-24d7c36cefd9" width="450" />
 
@@ -92,16 +92,18 @@
      - 일반 유저가 작성한 QNA 목록 확인
      - 글 작성 , 수정 기능
 
-## 7. 구동 화면
+## 4. 구동 화면
+### 로그인/회원가입
 
-![](info/chattingFileUpload.gif)  
-
-### 화상 채팅 화면
+### 메인페이지
 ![ChatForYou.gif](info%2FChatForYou.gif)  
   
-### Grafana 성능 모니터링 && Access 모니터링  
+### 전체조회  
 ![monitoring.png](info%2Fmonitoring.png)
-
-### DataChannel file Up/Download
-![chatforyou_fileupdown.gif](info%2Fchatforyou_fileupdown.gif)
+### 상세조회  
+### 장바구니  
+### 결제 기능  
+### 마이 페이지
+### 뉴스
+### 관리자 페이지
 
